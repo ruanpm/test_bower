@@ -1,0 +1,24 @@
+{
+  "name": "bower_tests",
+  "authors": [
+    "Ruan Porto Marques <ruan.marques@menvia.com>"
+  ],
+  "description": "test",
+  "main": "tt.js",
+  "keywords": [
+    "test",
+    "bower"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}
